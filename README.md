@@ -15,3 +15,7 @@ brew install kamilturek/python2/python@2
 ```sh
 brew uninstall kamilturek/python2/python@2
 ```
+
+## Contribution
+
+Please create a GitHub issue for any feedback, bugs, requests or issues. PRs are also welcome.
